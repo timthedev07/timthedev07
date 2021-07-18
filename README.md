@@ -1,5 +1,8 @@
 # Hello!
 
+![](https://komarev.com/ghpvc/?username=timthedev07&label=PROFILE+VIEWS&color=blue&style=flat-square)
+
+
 I'm Tim, a software development enthusiast and a full time student.
 I enjoy working on React, NodeJS CLI, and GraphQL server projects, although, I'm also interested in artificial intelligence.
 
