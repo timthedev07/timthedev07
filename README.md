@@ -1,6 +1,6 @@
 # Hello!
 
-![](https://komarev.com/ghpvc/?username=timthedev07&label=PROFILE+VIEWS&color=blue&style=flat-square)
+![](https://komarev.com/ghpvc/?username=timthedev07&label=viewsS&color=blue&style=flat-square)
 
 
 I'm Tim, a software development enthusiast and a full time student.
