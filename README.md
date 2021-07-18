@@ -12,8 +12,13 @@ Python would be my choice for building small side projects and some data analysi
 
 Sorry, but I'm not really into Java.
 
+Also knows: JavaScript, and C.
+
+## Technologies and tools
+React, Express.js, Typeorm, GraphQL, tensorflow(little experience), Bootstrap, Firebase, Django, Flask, Java Swing(little experience), JFX(little experience).
+
 ## Stats
 
 ![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timthedev07&show_icons=true&theme=gruvbox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timthedev07)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timthedev07&theme=gruvbox)
