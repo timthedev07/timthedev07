@@ -13,6 +13,5 @@ Python would be my choice for building small side projects and some data analysi
 Sorry, but I'm not really into Java.
 
 
-![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timthedev07)]
-
-![viewcount](https://komarev.com/ghpvc/?username=timthedev07)
+![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timthedev07&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timthedev07)
