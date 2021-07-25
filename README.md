@@ -18,7 +18,7 @@ Sorry, but I'm not really into Java.
 Also knows: JavaScript, and C.
 
 ## Technologies and tools
-React, Express.js, Typeorm, GraphQL, tensorflow(little experience), Bootstrap, Firebase, Django, Flask, Java Swing(little experience), JFX(little experience).
+React, Express.js, Typeorm, GraphQL, Postgresql, sqlite, NLTK python(little experience), scikit learn(little experience), knex.js(little experience) tensorflow(little experience), Bootstrap, Firebase, Django, Flask, Java Swing(little experience), JFX(little experience).
 
 ## Stats
 
