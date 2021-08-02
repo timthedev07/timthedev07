@@ -13,6 +13,8 @@ C++ would also be in my top tier, because of the static typing system and how ro
 
 Python would be my choice for building small side projects and some data analysis stuff.
 
+I'm just getting started with Swift, and I feel like it's really good(better than Java at least).
+
 Sorry, but I'm not really into Java.
 
 Also knows: JavaScript, and C.
