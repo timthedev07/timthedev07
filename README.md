@@ -7,7 +7,7 @@ I'm Tim, a software development enthusiast and a full time student from China.
 I enjoy working on React, NodeJS CLI, and GraphQL server projects, although, I'm also interested in artificial intelligence.
 
 ## Language preferences
-TypeScript is currently my favorite language because how powerful and scalable of an abstraction it is.
+TypeScript is currently my favorite language because how of powerful and scalable of an abstraction it is.
 
 C++ would also be in my top tier, because of the static typing system and how robust and efficient it is.
 
