@@ -25,5 +25,8 @@ React, Express.js, Typeorm, GraphQL, Postgresql, sqlite, NLTK python(little expe
 ## Stats
 
 ![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timthedev07&show_icons=true&theme=gruvbox)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=timthedev07&theme=gruvbox)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timthedev07&theme=gruvbox)
+
