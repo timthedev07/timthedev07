@@ -20,7 +20,10 @@ Sorry, but I'm not really into Java.
 Also knows: JavaScript, and C.
 
 ## Technologies and tools
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react), Express.js, Typeorm, GraphQL, Postgresql, sqlite, NLTK python(little experience), scikit learn(little experience), knex.js(little experience) tensorflow(little experience), Bootstrap, Firebase, Django, Flask, Java Swing(little experience), JFX(little experience).
+
+## Main/Favorite technologies
+
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react), ![Express.js](https://img.shields.io/badge/-Express.JS-4f4c46?style=for-the-badge&logo=express), ![Typeorm](https://img.shields.io/badge/-Typeorm-97a4b8?style=for-the-badge&logo=typescript), GraphQL, Postgresql, sqlite, NLTK python(little experience), scikit learn(little experience), knex.js(little experience) tensorflow(little experience), Bootstrap, Firebase, Django, Flask, Java Swing(little experience), JFX(little experience).
 
 ## Stats
 
