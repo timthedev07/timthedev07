@@ -5,6 +5,9 @@
 I'm Tim, a software development enthusiast and a full time student from China.
 I enjoy working on React, NodeJS CLI, and GraphQL server projects, although, I'm also interested in artificial intelligence.
 
+- Reach me via [email](timpersonal07@gmail.com)
+- [Reddit](https://www.reddit.com/user/im-just-a-dev)
+
 ## Language preferences
 
 TypeScript is currently my favorite language because how of powerful and scalable of an abstraction it is. I'll use it to build complex full stack web apps.
@@ -27,11 +30,14 @@ Also knows: JavaScript, and C.
 
 ### IDE/Editors
 
-VScode, NeoVim, Xcode, Android Studio, Google Docs, Paper, whiteboard, brain, my school computer, wall, floor, etc.
+VScode, NeoVim, Xcode, Android Studio, Google Docs, Paper, whiteboard, brain, my school computer, wall, that piece of paper my art teacher gave me.
 
 ### Terminal
 
 iTerm with fish shell on MacOS and WSL shell on windows.
+
+### Browsers
+Firefox Developer Edition, Firefox, Google Chrome.
 
 ### Databases
 
