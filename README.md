@@ -18,16 +18,16 @@ I'm just getting started with Swift, and I feel like it's really good(better tha
 Sorry, but I'm not really into Java.
 
 Also knows: JavaScript, and C.
-
+ 
 ## Technologies and tools
 
 ### Main/Favorite technologies
 
 ![React](https://img.shields.io/badge/-React-323232?style=for-the-badge&logo=react) ![GraphQL](https://img.shields.io/badge/-Graphql-black?style=for-the-badge&logo=graphql) ![Express.js](https://img.shields.io/badge/-Express.JS-4f4c46?style=for-the-badge&logo=express) ![Typeorm](https://img.shields.io/badge/-Typeorm-97a4b8?style=for-the-badge&logo=typescript)
 
-### IDE
+### IDE/Editors
 
-VScode, Xcode, Android Studio.
+VScode, NeoVim, Xcode, Android Studio, Google Docs, Paper, whiteboard, brain.
 
 ### Terminal
 
@@ -51,7 +51,7 @@ Knex.js(little experience)
 
 ### Web Frameworks/Libraries
 
-Django, Flask.
+Django, Flask, Svelte.
 
 ### Others
 
