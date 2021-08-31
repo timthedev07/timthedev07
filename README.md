@@ -71,6 +71,9 @@ Java Swing(little experience), JFX(little experience), C language, Vue.js, Mater
 ## 📊  Stats
 
 ![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=timthedev07&show_icons=true&theme=gruvbox)
+
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=timthedev07&theme=github)
+
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=timthedev07&theme=gruvbox)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timthedev07&theme=gruvbox)
