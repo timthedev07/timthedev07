@@ -1,3 +1,18 @@
+
+<p align="center">
+
+  <img src="dev.gif" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/timthedev07/devicon/master/icons/typescript/typescript-original.svg" width="100">
+  <img src="https://raw.githubusercontent.com/timthedev07/devicon/master/icons/react/react-original.svg" width="100">
+  <img src="https://raw.githubusercontent.com/timthedev07/devicon/master/icons/graphql/graphql-plain.svg" width="100">
+  <img src="https://raw.githubusercontent.com/timthedev07/devicon/master/icons/cplusplus/cplusplus-original.svg" width="100">
+  <img src="https://raw.githubusercontent.com/timthedev07/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="100">
+</p>
+
+
 # Hello!
 
 ![](https://komarev.com/ghpvc/?username=timthedev07&label=views&color=blue&style=flat-square)
