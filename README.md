@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/timthedev07/devicon/master/icons/graphql/graphql-plain.svg" width="100">
   <img src="https://raw.githubusercontent.com/timthedev07/devicon/master/icons/cplusplus/cplusplus-original.svg" width="100">
   <img src="https://raw.githubusercontent.com/timthedev07/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="100">
-  <img src="https://raw.githubusercontent.com/timthedev07/devicon/master/icons/nextjs/nextjs-original.svg" width="100">
+  <img src="next-js.svg" width="100">
 </p>
 
 
