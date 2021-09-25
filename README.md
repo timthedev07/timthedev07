@@ -67,7 +67,7 @@ NLTK python(little experience), SCikit learn(little experience), tensorflow(litt
 
 Bootstrap, Tailwind,
 
-### 📁  ORM
+### 📁  ORM/Query Builder
 
 Knex.js(little experience)
 
