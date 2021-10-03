@@ -61,7 +61,7 @@ PostgreSQL, SQLite
 
 ### 🤖  AI
 
-NLTK python(little experience), SCikit learn(little experience), tensorflow(little experience).
+Mediapipe, OpenCV, NLTK python(little experience), SCikit learn(little experience), tensorflow(little experience).
 
 ### 🌆  UI
 
