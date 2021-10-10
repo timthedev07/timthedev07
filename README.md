@@ -1,7 +1,7 @@
 
 <p align="center">
 
-  <img src="dev.gif" width="300" />
+  <img src="dev.gif" width="400" />
 </p>
 
 <p align="center">
