@@ -22,6 +22,7 @@ I enjoy working on full-stack web development projects with TypeScript, although
 
 - Reach me via [email](timpersonal07@gmail.com)
 - [Reddit](https://www.reddit.com/user/im-just-a-dev)
+- Wechat ID => timthedev07
 
 ## 🌐  Language preferences
 
