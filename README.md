@@ -30,6 +30,8 @@ TypeScript is currently my favorite language because how of powerful and scalabl
 
 C++ would also be in my top tier, because of the static typing system and how robust and efficient it is. I prefer C++ when it comes to competitive programming or algorithms styled questions and somehow it makes me feel like I'm a hacker.
 
+Go. Uhhhh, it's kinda hard to decide what to do with it, but I think it is a top alternative to C++ for competitive programming.
+
 Python would be my choice for building small side projects and some data analysis stuff. To be honest, I'm not a big fan of dynamic typing languages, I just can't build something complicated and intense without a reliable typing system(trust me, I've taken a web dev course in Python, the course itself was amazing, but you won't want to know how long it took me to fix some trivial typing bugs that could potentially cause a chain of runtime errors and ultimately crash my entire website with a 500).
 
 I'm just getting started with Swift, and I feel like it's really good(better than Java at least). I don't know yet what I'll be using it for.
