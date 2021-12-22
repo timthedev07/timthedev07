@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicon/devicon/master/icons/typescript/typescript-original.svg" width="100">
-  <img src="https://raw.githubusercontent.com/devicon/devicon/master/icons/react/react-original.svg" width="100">
-  <img src="https://raw.githubusercontent.com/devicon/devicon/master/icons/graphql/graphql-plain.svg" width="100">
-  <img src="https://raw.githubusercontent.com/devicon/devicon/master/icons/cplusplus/cplusplus-original.svg" width="100">
-  <img src="https://raw.githubusercontent.com/devicon/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="100">
 </p>
 
 
