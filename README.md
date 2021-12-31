@@ -15,10 +15,8 @@
 
 # Hello!
 
-![](https://komarev.com/ghpvc/?username=timthedev07&label=views&color=blue&style=flat-square)
-
 I'm Tim, a software development enthusiast and a full time student from China.
-I enjoy working on full-stack web development projects with TypeScript, although I'm also interested in artificial intelligence.
+I enjoy working on full-stack web development projects with TypeScript, although I'm also interested in artificial intelligence as it is trend of technology and the future of society(idk).
 
 - Reach me via email(timpersonal07@gmail.com)
 - [Reddit](https://www.reddit.com/user/im-just-a-dev)
@@ -44,11 +42,11 @@ Also knows: JavaScript, and C.
 
 ### ⚡  Main/Favorite technologies
 
-![React](https://img.shields.io/badge/-React-323232?style=for-the-badge&logo=react) ![GraphQL](https://img.shields.io/badge/-Graphql-black?style=for-the-badge&logo=graphql) ![Express.js](https://img.shields.io/badge/-Express.JS-4f4c46?style=for-the-badge&logo=express) ![Typeorm](https://img.shields.io/badge/-Typeorm-97a4b8?style=for-the-badge&logo=typescript)
+![React with Next.js](https://img.shields.io/badge/-React-323232?style=for-the-badge&logo=react) ![GraphQL](https://img.shields.io/badge/-Graphql-black?style=for-the-badge&logo=graphql) ![Express.js](https://img.shields.io/badge/-Express.JS-4f4c46?style=for-the-badge&logo=express) ![Typeorm](https://img.shields.io/badge/-Typeorm-97a4b8?style=for-the-badge&logo=typescript)![Tailwind CSS](https://img.shields.io/badge/-Express.JS-166291?style=for-the-badge&logo=tailwindcss) ![Typeorm](https://img.shields.io/badge/-Typeorm-97a4b8?style=for-the-badge&logo=typescript)
 
 ### 🛠  IDE/Editors
 
-VScode, NeoVim, Xcode, Android Studio, Google Docs, Paper, whiteboard, brain, my school computer, wall, that piece of paper my art teacher gave me.
+VScode, NeoVim, Xcode, Android Studio, Google Docs, Paper, whiteboard, brain, my school computer, wall.
 
 ### ⚙️  Terminal
 
@@ -84,7 +82,7 @@ Firebase
 
 ### Stuff I don't want to touch anymore
 
-Java Swing(little experience), JFX(little experience), C language, Vue.js, Material UI, vi.
+Java Swing(little experience), JFX(little experience), C language, Vue.js(little experience), Material UI(too complex), vi.
 
 ## 📊  Stats
 
