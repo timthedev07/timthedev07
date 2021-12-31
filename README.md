@@ -42,7 +42,7 @@ Also knows: JavaScript, and C.
 
 ### ⚡  Main/Favorite technologies
 
-![React with Next.js](https://img.shields.io/badge/-React-323232?style=for-the-badge&logo=react) ![GraphQL](https://img.shields.io/badge/-Graphql-black?style=for-the-badge&logo=graphql) ![Express.js](https://img.shields.io/badge/-Express.JS-4f4c46?style=for-the-badge&logo=express) ![Typeorm](https://img.shields.io/badge/-Typeorm-97a4b8?style=for-the-badge&logo=typescript)![Tailwind CSS](https://img.shields.io/badge/-Express.JS-166291?style=for-the-badge&logo=tailwindcss) ![Typeorm](https://img.shields.io/badge/-Typeorm-97a4b8?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/-React-323232?style=for-the-badge&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-101010?style=for-the-badge&logo=nextdotjs) ![GraphQL](https://img.shields.io/badge/-Graphql-black?style=for-the-badge&logo=graphql) ![Express.js](https://img.shields.io/badge/-Express.JS-4f4c46?style=for-the-badge&logo=express) ![Typeorm](https://img.shields.io/badge/-Typeorm-97a4b8?style=for-the-badge&logo=typescript) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-166291?style=for-the-badge&logo=tailwindcss)
 
 ### 🛠  IDE/Editors
 
