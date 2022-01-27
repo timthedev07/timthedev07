@@ -21,6 +21,7 @@ Aside from computer science, I also enjoy Math and Video Editing.
 - Reach me via email(timpersonal07@gmail.com)
 - [Reddit](https://www.reddit.com/user/im-just-a-dev)
 - Wechat ID => timthedev07
+- [The first CS project in my life](https://studio.code.org/projects/artist/oNOoDNWO4RmYkz28cRq2zmMIntGYgBbost7kxUikebo) 
 
 ## 🌐  Language preferences
 
