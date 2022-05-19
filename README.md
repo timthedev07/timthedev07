@@ -55,7 +55,7 @@ iTerm with fish shell on MacOS and WSL shell on windows.
 
 ### 🪐  Browsers
 
-Firefox Developer Edition, Firefox, Google Chrome.
+Google Chrome
 
 ### 🗄️  Databases
 
