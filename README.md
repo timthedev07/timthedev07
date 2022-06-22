@@ -94,3 +94,5 @@ Java Swing(little experience), JFX(little experience), C language, Vue.js(little
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=timthedev07&theme=gruvbox)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timthedev07&theme=gruvbox)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=timthedev07&theme=gruvbox)
