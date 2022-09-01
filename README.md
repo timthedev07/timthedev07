@@ -23,6 +23,11 @@ I enjoy working on full-stack web development projects with TypeScript, and I'm 
 - Wechat ID => timthedev07
 - [The first CS project in my life](https://studio.code.org/projects/artist/oNOoDNWO4RmYkz28cRq2zmMIntGYgBbost7kxUikebo) 
 
+## Main Achievements
+
+- UKMT IMC Gold, 2022.
+- Top 10 Finalists of the International Inspired Business Competition.
+
 ## 🌐  Language preferences
 
 TypeScript is currently my favorite language because how of powerful and scalable of an abstraction it is. I'll use it to build complex full stack web apps.
