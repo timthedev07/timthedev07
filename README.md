@@ -26,7 +26,9 @@ I enjoy working on full-stack web development projects with TypeScript, and I'm 
 ## Main Achievements
 
 - UKMT IMC Gold 2022, 2021
-- Top 10 Finalists of the International Inspired Business Competition.
+- UKMT SMC Gold 2023
+- UKMT Maclaurin 2022
+- Top 10 Finalists of the International Inspired Business Competition
 
 ## 🌐  Language preferences
 
