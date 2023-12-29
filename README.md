@@ -25,6 +25,7 @@ I enjoy working on full-stack web development projects with TypeScript, and I'm 
 
 ## Main Achievements
 
+- UKMT BMO1 2023-24, 29/60
 - UKMT IMC Gold 2022, 2021
 - UKMT SMC Gold 2023
 - UKMT Maclaurin 2022
@@ -32,9 +33,9 @@ I enjoy working on full-stack web development projects with TypeScript, and I'm 
 
 ## 🌐  Language preferences
 
-TypeScript is currently my favorite language because how of powerful and scalable of an abstraction it is. I'll use it to build complex full stack web apps.
+TypeScript is currently my favorite language because how of powerful and scalable of an abstraction it is. I'll use it to build complex full-stack web apps.
 
-C++ would also be in my top tier, because of the static typing system and how robust and efficient it is. I prefer C++ when it comes to competitive programming or algorithms styled questions and somehow it makes me feel like I'm a hacker.
+C++ would also be in my top tier, because of the static typing system and how robust and efficient it is. I prefer C++ when it comes to competitive programming or algorithms-styled questions and somehow it makes me feel like I'm a hacker.
 
 Go. Uhhhh, it's kinda hard to decide what to do with it, but I think it is a top alternative to C++ for competitive programming.
 
