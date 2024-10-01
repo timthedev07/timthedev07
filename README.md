@@ -8,13 +8,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="100">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="100">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="100">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg" width="100">
 </p>
 
 
 # Hello!
 
-I'm Tim, a software development enthusiast and a full time student from China.
+I'm Tim, a software development enthusiast and a full-time student from China.
 
 I enjoy working on full-stack web development projects with TypeScript, and I'm also interested in artificial intelligence and blockchain.
 
@@ -26,8 +26,8 @@ I enjoy working on full-stack web development projects with TypeScript, and I'm 
 ## Main Achievements
 
 - UKMT BMO1 2023-24, 29/60
-- UKMT IMC Gold 2022, 2021
-- UKMT SMC Gold 2023
+- UKMT IMC Gold 2021, 2022
+- UKMT SMC Gold 2023, 2024
 - UKMT Maclaurin 2022
 - Top 10 Finalists of the International Inspired Business Competition
 
