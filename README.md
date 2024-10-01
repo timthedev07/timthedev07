@@ -25,7 +25,7 @@ I enjoy working on full-stack web development projects with TypeScript, and I'm 
 
 ## Main Achievements
 
-- UKMT BMO1 2023-24, 29/60
+- UKMT BMO1 2023-24, Top 25%
 - UKMT IMC Gold 2021, 2022
 - UKMT SMC Gold 2023, 2024
 - UKMT Maclaurin 2022
