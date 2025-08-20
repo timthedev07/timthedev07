@@ -24,7 +24,7 @@ I enjoy working on full-stack web development projects with TypeScript, and I'm 
 - [The first CS project in my life](https://studio.code.org/projects/artist/oNOoDNWO4RmYkz28cRq2zmMIntGYgBbost7kxUikebo) 
 
 ## Main Achievements
-
+- UKMT BMO1 2024-2025, Distinction
 - UKMT BMO1 2023-24, Top 25%
 - UKMT IMC Gold 2021, 2022
 - UKMT SMC Gold 2023, 2024
