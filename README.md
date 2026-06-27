@@ -14,9 +14,7 @@
 
 # Hello!
 
-I'm Tim, a software development enthusiast and a full-time student from China.
-
-I enjoy working on full-stack web development projects with TypeScript, and I'm also interested in artificial intelligence and discrete mathematics.
+At some point in my life, I liked computer science. That is no longer true.
 
 - Reach me via email(timpersonal07@gmail.com)
 - [Reddit](https://www.reddit.com/user/im-just-a-dev)
