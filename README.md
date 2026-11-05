@@ -89,3 +89,24 @@ Java Swing(little experience), JFX(little experience), C language, Vue.js(little
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=timthedev07&theme=gruvbox)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=timthedev07&theme=gruvbox)
+
+## Hobbies
+
+Big fan of K-drama! Below is the list in chronological order.
+
+
+1. Squid Game - Season 1
+2. Guardian: The Lonely and Great God
+3. Teach You a Lesson - Season 1
+4. My Mister
+5. Weak Hero - Season 1
+6. Weak Hero - Season 2
+7. Squid Game - Season 2
+8. Squid Game - Season 3
+9. Moving - Season 1
+10. Can This Love Be Translated?
+
+
+Absolute favourite: **Can This Love Be Translated?**
+
+Runner up: **My Mister**
