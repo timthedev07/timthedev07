@@ -105,8 +105,11 @@ Big fan of K-drama! Below is the list in chronological order.
 8. Squid Game - Season 3
 9. Moving - Season 1
 10. Can This Love Be Translated?
+11. We Are All Trying Here
 
 
 Absolute favourite: **Can This Love Be Translated?**
 
-Runner up: **My Mister**
+Runner up: **We Are All Trying Here**
+
+3rd place: **My Mister**
